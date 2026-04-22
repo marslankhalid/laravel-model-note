@@ -1,11 +1,11 @@
 {
-    "name": "tmsllc/laravel-model-note",
+    "name": "marslankhalid/laravel-model-note",
     "description": "A package to enable assigning notes to Eloquent Models",
     "keywords": [
         "laravel",
         "notes"
     ],
-    "homepage": "https://github.com/tmsllc/laravel-model-note",
+    "homepage": "https://github.com/marslankhalid/laravel-model-note",
     "license": "MIT",
     "authors": [
         {
