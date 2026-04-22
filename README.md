@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# laravel-model-note
-=======
 # Add notes to Eloquent models
 
 This package provides a `HasNotes` trait that, once installed on a model, allows you to do things like this:
