@@ -221,4 +221,3 @@ This package was originally written by: [DigitalCloud](https://github.com/Digita
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
->>>>>>> 2e15663dca3d56ae4fb183c2b1eb849b56d6bc9c
